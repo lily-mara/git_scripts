@@ -3,6 +3,7 @@ Scripts included
 
 * [Git Checker](#git_checksh)
 * [Tag Renamer](#rename_tagsh)
+* [Commit .bash\_aliases](#commit_aliasessh)
 
 git\_check.sh
 -------------
