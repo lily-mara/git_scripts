@@ -1,8 +1,8 @@
 Scripts included
 ================
 
-* [Git Checker](#git_check.sh)
-* [Tag Renamer](#rename_tag.sh)
+* [Git Checker](#git_checksh)
+* [Tag Renamer](#rename_tagsh)
 
 git\_check.sh
 -------------
