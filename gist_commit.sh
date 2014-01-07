@@ -1,5 +1,6 @@
 #!/bin/sh
 
-git add shit--conrad--says.md
-git commit -m 'added stuff'
+git add .
+git rm --cached *.swp
+git commit -m 'null'
 git push
