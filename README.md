@@ -31,3 +31,8 @@ commit\_aliases.sh
 ==================
 
 Commits my .bash\_aliases file using the command-line argument as a commit message, then pushes it. I have `edita` aliased to open my .bash\_aliases file in Vim for editing, so I typically am not in the same folder as the file when I do this. This means that I am not in a position to easily commit my changes after an edit to this file, so I just made this script to more easily facilitate that.
+
+gist\_commit.sh
+===============
+
+commits the current folder with a null commit message, as gists do not have commit messages.
