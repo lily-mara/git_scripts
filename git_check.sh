@@ -1,7 +1,7 @@
 #!/bin/sh
 
 git_dir=$1
-sub_dirs=`ls $git_dir | grep -v "\." | grep -v "gist"`
+sub_dirs=`ls $git_dir | grep -v "\." | grep -v "gist" | grep -v 'coding'`
 
 for i in $sub_dirs
 do
